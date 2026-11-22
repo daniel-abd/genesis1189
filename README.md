@@ -1,6 +1,6 @@
-# GENESIS 1189 — páginas públicas
+# GÊNESIS 1189 — páginas públicas
 
-Site do canal GENESIS 1189 (a Bíblia inteira em ordem cronológica), publicado pelo GitHub Pages:
+Site do canal GÊNESIS 1189 (a Bíblia inteira em ordem cronológica), publicado pelo GitHub Pages:
 
 - [Início](https://daniel-abd.github.io/genesis1189/)
 - [Política de Privacidade](https://daniel-abd.github.io/genesis1189/privacidade/)
